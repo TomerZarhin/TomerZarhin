@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tomer 👋
 
-<!--
-**TomerZarhin/TomerZarhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate with a strong interest in Blue Team operations, Detection Engineering, Incident Response, and Threat Hunting.
 
-Here are some ideas to get you started:
+## 🎯 Current Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building a hands-on cybersecurity portfolio to prepare for my first SOC Analyst role.
+
+Every project in this GitHub is focused on practical experience, including home labs, detection engineering, incident reports, threat hunting, and security tooling.
+
+## 🛠️ Current Focus
+
+- Blue Team Operations
+- Detection Engineering
+- Threat Hunting
+- Windows Security
+- SIEM (Splunk / Wazuh)
+- Sysmon & Event Logs
+- Network Security
+
+## 🚀 Featured Projects
+
+### 🛡️ Guardex
+A Visual Studio Code extension that detects insecure coding patterns based on OWASP best practices and helps developers identify security issues early.
+
+### 🗺️ FitMap
+A full-stack software engineering project demonstrating software design, teamwork, and application development.
+
+---
+
+📚 Currently learning every day while building a practical cybersecurity portfolio.
